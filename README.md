@@ -2,6 +2,11 @@
 
 This project was developed as part of the course "Echtzeit Computergrafik" at Furtwangen University during SS24.
 
+## Demo
+
+<a href="https://nriedinger.github.io/pacman-3d/" target="_blank">Play here!</a>
+> Move with WASD
+
 ## Description
 
 A 3D-Version of the all-time classic retro game pac-man.
